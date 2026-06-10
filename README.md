@@ -8,10 +8,6 @@
 
 </div>
 
-<table>
-  <tr>
-    <td width="52%" valign="top">
-
 ## Hi there
 
 - Hi, I'm **Ye Yang**.
@@ -24,14 +20,11 @@
 - QQ Mail: [1194571448@qq.com](mailto:1194571448@qq.com)
 - Google Mail: [yangye659@gmail.com](mailto:yangye659@gmail.com)
 
-    </td>
-    <td width="48%" valign="top">
+<div align="center">
 
-<img width="100%" src="https://github-readme-stats.vercel.app/api?username=ye-yang-ai&show_icons=true&include_all_commits=true&rank_icon=github&theme=transparent&hide_border=true&title_color=2F80ED&text_color=667085&icon_color=EF4444" alt="Ye Yang's GitHub stats" />
+<img width="56%" src="https://github-readme-stats.vercel.app/api?username=ye-yang-ai&show_icons=true&include_all_commits=true&rank_icon=github&theme=transparent&hide_border=true&title_color=2F80ED&text_color=667085&icon_color=EF4444" alt="Ye Yang's GitHub stats" />
 
-    </td>
-  </tr>
-</table>
+</div>
 
 <div align="center">
 
