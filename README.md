@@ -20,7 +20,12 @@
 - QQ Mail: [1194571448@qq.com](mailto:1194571448@qq.com)
 - Google Mail: [yangye659@gmail.com](mailto:yangye659@gmail.com)
 
-<div align="center">
+### Find me online
+
+[![CSDN](https://img.shields.io/badge/CSDN-博客-FC5531?style=for-the-badge&logo=c&logoColor=white)](https://blog.csdn.net/m0_74944090)
+[![GitHub](https://img.shields.io/badge/GitHub-ye--yang--ai-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ye-yang-ai)
+
+<!-- <div align="center">
 
 <img width="56%" src="https://github-readme-stats.vercel.app/api?username=ye-yang-ai&show_icons=true&include_all_commits=true&rank_icon=github&theme=transparent&hide_border=true&title_color=2F80ED&text_color=667085&icon_color=EF4444" alt="Ye Yang's GitHub stats" />
 
@@ -28,7 +33,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ye-yang-ai&layout=compact&theme=transparent&hide_border=true&title_color=2F80ED&text_color=667085" alt="Top languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ye-yang-ai&layout=compact&theme=transparent&hide_border=true&title_color=2F80ED&text_color=667085" alt="Top languages" /> -->
 
 <br />
 
